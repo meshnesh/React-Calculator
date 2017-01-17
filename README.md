@@ -1,2 +1,2 @@
-# tic-tac-toe
-Tic tac toe game in React js
+# React-Calculator
+A Calculator built on react native, running on both android and ios
