@@ -84,10 +84,10 @@ def enableProguardInReleaseBuilds = false
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "23.0.3"
+    buildToolsVersion "23.0.1"
 
     defaultConfig {
-        applicationId "com.reactcalculator"
+        applicationId "com.sampleappmovies"
         minSdkVersion 16
         targetSdkVersion 22
         versionCode 1
